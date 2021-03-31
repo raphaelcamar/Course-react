@@ -1,0 +1,9 @@
+body{
+    background-color: #222;
+    color: #FFF;
+    font-family: Oswald;
+    font-size: 1.4rem;
+}
+h1, h2, h3{
+    font-weight: 200;
+}

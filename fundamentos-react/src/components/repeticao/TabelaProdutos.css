@@ -1,0 +1,11 @@
+.tabelaProdutos th{
+    background: rgb(14, 117, 117);
+    color: white;
+}
+.tabelaProdutos table{
+    width: 100%;
+}
+
+.tabelaProdutos .par{
+    background: #DDD;
+}
